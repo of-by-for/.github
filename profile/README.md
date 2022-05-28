@@ -7,7 +7,7 @@ It is intended to measure:
 - general interest
 - common acceptence of specifics
 
-## Response
+## Responses
 This repository is for responding to a boolean (True|False) question.
 
 
