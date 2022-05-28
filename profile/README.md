@@ -9,12 +9,3 @@ It is intended to measure:
 
 ## Responses
 This repository is for responding to a boolean (True|False) question.
-
-
-## Organization levels
-* State
-* County
-* Precinct
-* Street
-
-Procedures still in development.
