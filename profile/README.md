@@ -1,7 +1,7 @@
 # Template Repositories to get you up and running.
 
 ## Boolean
-This repository for adding statements to be check whether the public finds them factual or not.
+This repository is for adding statements to be check whether the public finds them factual or not.
 
 It is intended to measure:
 - general interest
